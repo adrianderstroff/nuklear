@@ -1,4 +1,6 @@
 // +build opengl2
+// +build !opengl3
+// +build !opengl4
 // +build !sdl2
 
 package nk
